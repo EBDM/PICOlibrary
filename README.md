@@ -5,6 +5,8 @@ _All information regarding methods and how formulate PICO Questions is answered 
 ```
 https://www.cochranelibrary.com/about/pico-search
 ```
+
+
 | Patient/Population | Intervention | Comparator | Outcomes | Study Design |
 |:------------------:|--------------|------------|----------|--------------|
 |                    |              |            |          |              |
