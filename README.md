@@ -5,8 +5,8 @@ _All information regarding methods and how formulate PICO Questions is answered 
 ```
 https://www.cochranelibrary.com/about/pico-search
 ```
-Patient/Population | Intervention | Comparator | Outcomes | Design Study |
--------------------| -------------------|-------------------| -------------------| -------------------|
+First Header | Second Header | First Header | Second Header | First Header
+------------ | ------------- | ------------- | ------------- | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
