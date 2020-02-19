@@ -6,6 +6,10 @@ _All information regarding methods and how formulate PICO Questions is answered 
 https://www.cochranelibrary.com/about/pico-search
 ```
 
+# PICOlibrary:
+
+1. ¿Does Honey help to reduce cough in children with upper respiratory infection?:
+
 | Patient/Population        | Intervention | Comparator | Outcomes | Study Design     |
 |:-------------------------:|--------------|------------|----------|------------------|
 |    Infant                 |   Honey      |  Placebo   |   Cough  |Systematic Review |
@@ -13,7 +17,8 @@ https://www.cochranelibrary.com/about/pico-search
 |Upper Respiratory Infection|              |            |          |                  |
 |    Acute Cough            |              |            |          |                  |
 
+Findings using [PUBMED](https://pubmed.ncbi.nlm.nih.gov/?term=child+honey+cough+systematic+review)
 
-# PICOlibrary:
+Findings using [EPISTEMONIKOS](https://www.epistemonikos.org/en/search?q=child+honey+cough)
 
-1. 
+
