@@ -6,10 +6,13 @@ _All information regarding methods and how formulate PICO Questions is answered 
 https://www.cochranelibrary.com/about/pico-search
 ```
 
+| Patient/Population        | Intervention | Comparator | Outcomes | Study Design     |
+|:-------------------------:|--------------|------------|----------|------------------|
+|    Infant                 |   Honey      |  Placebo   |   Cough  |Systematic Review |
+|    Child                  |   Antibiotic |Antitussive |          |                  |
+|Upper Respiratory Infection|              |            |          |                  |
+|    Acute Cough            |              |            |          |                  |
 
-| Patient/Population | Intervention | Comparator | Outcomes | Study Design |
-|:------------------:|--------------|------------|----------|--------------|
-|                    |              |            |          |              |
 
 # PICOlibrary:
 
